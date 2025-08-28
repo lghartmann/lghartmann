@@ -12,6 +12,8 @@ DevOps & Tools: Docker, a little bit of Kubernetes, Git, GitHub
 
 Concepts & Methodologies: Design Patterns, SOLID Principles, Domain-Driven Design (DDD), Event-Driven Architecture, Algorithms and data structures
 
-Currently finishing CS50 and reading Fundamentals of Architecture: An Engineering Approach
+Reading Fundamentals of Architecture: An Engineering Approach
+
+CS50X completed!
 
 Studying for my Bachelor's Degree in Software Engineering.
